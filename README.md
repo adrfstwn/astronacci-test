@@ -1,6 +1,6 @@
 # Astronacci — Crew Voucher Generator
 
-A small full-stack app for airline crew to check and generate seat vouchers for a given flight and date.
+An app for airline crew to check and generate vouchers for a given flight and date.
 
 ```
 project/
