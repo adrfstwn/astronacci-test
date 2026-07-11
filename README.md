@@ -1,4 +1,4 @@
-# Astronacci — Crew Voucher Generator
+# Astronacci Test — Voucher Generator
 
 An app for airline crew to check and generate vouchers for a given flight and date.
 
